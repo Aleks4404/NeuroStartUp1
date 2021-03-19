@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![](https://i.imgur.com/IZORWiI.png)
+![https://i.imgur.com/IZORWiI.png](logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
